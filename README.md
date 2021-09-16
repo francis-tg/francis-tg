@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @francis-tg
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
+- 💕 I love vuejs, nodejs
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me francisalaphia5@gmail0com, +22898852436
 
