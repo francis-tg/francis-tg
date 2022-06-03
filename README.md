@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning reactjs and react native
 - 💕 I love vuejs, nodejs,reactjs
-- 💞️ I’m looking to collaborate on google
+- 💞️ I’m looking to collaborate with google
 - 📫 How to reach me francisalaphia5@gmail.com, +22898852436
 
 <!---
