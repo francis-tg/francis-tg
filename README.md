@@ -3,6 +3,8 @@ I'm Francis ALAPHIA<br>I'm Fullstack Developper<br>I'm from Togo<br>
 
 📠 +228 91595914 / +228 98852436
 
+✉ francisalaphia5@gmail.com
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ciscodev.adna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francis-alaphia-060661217) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16454933) 
 
